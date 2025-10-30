@@ -20,13 +20,20 @@ Output how many fewer days it will take them to complete the work. Don't forget 
 ## Sample Input 0
 
 4
+
 10  5  15
+
 4   0  5
+
 4   1  5
+
 7  1000 1
 ## Sample Output 0
 
 5
+
 0
+
 1
+
 1
